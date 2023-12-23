@@ -31,7 +31,7 @@ Shiko Bot is an exciting Discord companion designed to bring fun and utility to 
 
 #### Screenshots
 
-![Shiko Bot in Action](https://your-image-url.com/shikobot-screenshot.png)
+![Shiko Bot in Action(Coming Soon)](https://your-image-url.com/shikobot-screenshot.png)
 
 ### Getting Started
 
