@@ -36,6 +36,13 @@ I am a programmer based in the Philippines with an interest in building creative
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
+<details>
+<summary>Contribution Snake Arena</summary>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/github-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-green.svg">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-cyan.svg">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-purple.svg">
 </p>
+
+</details>
