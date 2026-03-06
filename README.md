@@ -22,12 +22,13 @@ I am a programmer based in the Philippines with an interest in building creative
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
 </p>
 
-<h3>Frameworks, Libraries, and Engines</h3>
+<h3>Frameworks, Libraries, Engines, and Platforms</h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" />
-<img src="https://www.renpy.org/static/index-logo.png" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" title="Discord.js"/>
+<img src="https://www.renpy.org/static/index-logo.png" width="40" title="Ren'Py"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino"/>
 </p>
 
 
