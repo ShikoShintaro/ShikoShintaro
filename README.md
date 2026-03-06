@@ -40,9 +40,9 @@ I am a programmer based in the Philippines with an interest in building creative
 <summary>Contribution Snake Arena</summary>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-green.svg">
-<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-cyan.svg">
-<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-purple.svg">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-green.svg" width="100%">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-cyan.svg" width="100%">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/snake-purple.svg" width="100%">
 </p>
 
 </details>
