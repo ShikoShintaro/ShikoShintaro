@@ -4,9 +4,9 @@
 
 ---
 
-Hello, I’m Shiko Shintaro.
+Greetings, I'm Shiko Shintaro!
 
-I am a programmer based in the Philippines with an interest in building creative and practical software projects. I enjoy exploring new technologies, developing systems, and turning ideas into functional applications. Most of my work involves experimenting with different tools, learning new frameworks, and continuously improving my development skills.
+I am a Filipino programmer who is interested in developing innovative and useful software projects. I love to learn new technologies, design systems and transform concepts into functional applications. Most of my work revolves around testing various tools, mastering new frameworks, and constantly improving my programming capabilities. 
 
 ---
 
