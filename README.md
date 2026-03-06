@@ -27,11 +27,9 @@ I am a programmer based in the Philippines with an interest in building creative
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" />
+<img src="https://www.renpy.org/static/index-logo.png" width="40" />
 </p>
 
-<p>
-Ren'Py Visual Novel Engine
-</p>
 
 <h3>Databases and Technologies</h3>
 <p>
