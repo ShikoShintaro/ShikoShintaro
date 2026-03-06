@@ -37,5 +37,5 @@ I am a programmer based in the Philippines with an interest in building creative
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/github-snake-dark.svg">
 </p>
