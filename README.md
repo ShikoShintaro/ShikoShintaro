@@ -43,6 +43,15 @@ I am a Filipino programmer who is interested in developing innovative and useful
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
+<h3>Operating Systems</h3>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows11-original.svg" height="40" title="Windows 11 (Primary)"/>
+<img src="https://cdn.simpleicons.org/linuxmint" height="40" title="Linux Mint (Secondary)"/>
+<img src="https://cdn.simpleicons.org/ubuntu" height="40" title="Ubuntu"/>
+<img src="https://cdn.simpleicons.org/kalilinux" height="40" title="Kali Linux"/>
+</p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/ShikoShintaro/ShikoShintaro/output/github-snake.svg">
 </p>
