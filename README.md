@@ -11,7 +11,7 @@ I am a programmer based in the Philippines who enjoys developing creative and pr
 
 <h2>Skills</h2>
 
-<h3>Languages</h3>
+<h3>Languages (Still Learning)</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
