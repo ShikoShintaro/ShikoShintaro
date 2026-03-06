@@ -33,7 +33,7 @@ I am a programmer based in the Philippines with an interest in building creative
 <p>
 <img src="https://www.renpy.org/static/logo.png" height="40" title="Ren'Py"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original.svg" height="40" title="Minecraft Plugin / Mod Development"/>
+<img src="https://cdn.simpleicons.org/minecraft/62B47A" height="40" title="Minecraft Plugin / Mod Development"/>
 </p>
 
 <h3>Databases</h3>
