@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: ShikoShintaro
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=ff073a
+            dist/github-snake.svg?palette=github-dark&color_snake=ff0000&color_dots=ff0000,ff4d4d,ff8080,ffb3b3
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
