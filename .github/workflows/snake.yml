@@ -1,4 +1,4 @@
-name: Generate Snakes
+name: Generate Snake
 
 on:
   schedule:
@@ -10,16 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snakes
+      - name: Generate rainbow snake
         uses: Platane/snk@v3
         with:
           github_user_name: ShikoShintaro
           outputs: |
-            dist/snake-green.svg?palette=github
-            dist/snake-cyan.svg?palette=github-dark&color_snake=cyan
-            dist/snake-purple.svg?palette=github-dark&color_snake=purple
+            dist/github-snake-rainbow.svg?palette=github-dark&color_snake=rainbow
 
-      - name: Push snakes
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
