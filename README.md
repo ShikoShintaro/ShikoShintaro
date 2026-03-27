@@ -12,6 +12,11 @@ I am a Filipino programmer who is interested in developing innovative and useful
 
 <h2>Technologies and Skills</h2>
 
+<h3>Currently Learning / Working With</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+</p>
+
 <h3>Programming Languages</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
