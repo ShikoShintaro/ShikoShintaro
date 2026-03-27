@@ -34,6 +34,12 @@ I am a Filipino programmer who is interested in developing innovative and useful
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40"/>
 </p>
 
+<h3>Machine Learning & Data Platforms</h3>
+<p>
+<img src="https://cdn.simpleicons.org/kaggle" height="40" title="Kaggle"/>
+<img src="https://cdn.simpleicons.org/huggingface" height="40" title="Hugging Face"/>
+</p>
+
 <h3>Engines and Platforms</h3>
 <p>
 <img src="https://www.renpy.org/static/logo.png" height="40" title="Ren'Py"/>
