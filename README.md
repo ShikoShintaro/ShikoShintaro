@@ -14,7 +14,13 @@ I am a Filipino programmer who is interested in developing innovative and useful
 
 <h3>Currently Learning / Working With</h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+
+  <img src="https://cdn.simpleicons.org/fastapi" height="40" title="FastAPI"/>
 </p>
 
 <h3>Programming Languages</h3>
