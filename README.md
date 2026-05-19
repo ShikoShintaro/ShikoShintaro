@@ -53,6 +53,15 @@ I am a Filipino programmer who is interested in developing innovative and useful
 <img src="https://static.wikia.nocookie.net/logopedia/images/3/3c/Minecraft_icon_2021.svg" height="40" title="Minecraft Plugin / Mod Development"/>
 </p>
 
+<h3>Tools & IDEs</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="Visual Studio Code"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" title="Visual Studio"/>
+</p>
+
 <h3>Databases</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
