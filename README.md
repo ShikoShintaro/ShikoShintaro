@@ -44,7 +44,6 @@ I am a Filipino programmer who is interested in developing innovative and useful
 <p>
   <img src="https://cdn.simpleicons.org/kaggle" height="40" title="Kaggle"/>
   <img src="https://cdn.simpleicons.org/huggingface" height="40" title="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
   <img src="https://cdn.simpleicons.org/lightning" height="40" title="Lightning AI / PyTorch Lightning"/>
 </p>
 
