@@ -9,7 +9,7 @@
 <h1 align="center">Greetings, I'm Shiko Shintaro!</h1>
 
 <p align="center">
-  <em>Filipino Programmer · Freelance Developer · Founder of Heroxalis</em>
+  <em>Filipino Programmer · Freelance Developer · Founder & Lead Developer of Heroxalis</em>
 </p>
 
 <p align="center">
